@@ -1,0 +1,7 @@
+.env
+
+# llm model
+Qwen3-8B/
+
+#jupyter notebook
+*.ipynb
