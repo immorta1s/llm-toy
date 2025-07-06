@@ -1,7 +1,13 @@
-.env
+# 一些私有文件
+*.env
+*.txt
+git使用说明.md
 
-# llm model
+# llm model weights
 Qwen3-8B/
 
 #jupyter notebook
 *.ipynb
+
+# gradio
+.gradio
